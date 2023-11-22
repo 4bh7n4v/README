@@ -1,4 +1,6 @@
 # README
-NAME : PASUNURI ABHINAV
-BATCH : CYS
-CatchPhrase : bagundha 
+Name:- Pasunuri Abhinav
+
+Batch:- CYS
+
+Catchphrase:- Jai balayya!
