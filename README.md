@@ -1,3 +1,5 @@
-# NAME : PASUNURI ABHINAV
-# BATCH : CYS
-# CatchPhrase : bagundha 
+# README
+
+NAME : PASUNURI ABHINAV
+BATCH : CYS
+CatchPhrase : bagundha 
